@@ -1,6 +1,6 @@
-# TODO: スライドのタイトル
+# Container Runtime Meetup #1
 
-TODO: スライドの説明
+https://runtime.connpass.com/event/145088/
 
 ## 作者向け
 

@@ -1,8 +1,8 @@
 ---
 id: container_runtime_meetup_1
 base_name: slide
-tags: []
-presentation_date: 
+tags: ['container', 'runc', 'docker']
+presentation_date: 2019-09-24
 presentation_start_time: 
 presentation_end_time: 
 version: 1.0.0
